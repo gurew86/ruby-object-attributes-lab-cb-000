@@ -12,8 +12,7 @@ class Dog
     @name = new_name
   end
   
-  a_dog = Dog.new("Alto")
-  a_dog
+  {name}
  
 end
  
