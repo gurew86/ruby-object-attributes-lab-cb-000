@@ -4,4 +4,8 @@ class Person
     @name = human_name
   end
   
+  def name
+    @name
+  end
+  
 end
