@@ -12,7 +12,7 @@ class Dog
     @name = new_name
   end
   
-  {name}
+  "#{name}"
  
 end
  
